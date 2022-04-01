@@ -1,0 +1,2 @@
+class Gallery < Venue
+end
